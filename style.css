@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.heading{
+    font-family: 'Cinzel', serif;
+}
+#heading_text{
+    font-size: 30px;
+}
+.head_div{
+    float:none;
+}
+canvas{
+    margin-top: 100px;
+}
